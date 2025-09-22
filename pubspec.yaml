@@ -1,0 +1,27 @@
+name: chi_giphy
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  flutter_riverpod: ^2.5.1
+  cached_network_image: ^3.4.1
+  cupertino_icons: ^1.0.8
+  share_plus: ^10.0.2
+  shimmer: ^3.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  http_mock_adapter: ^0.6.1
+  mocktail: ^1.0.3
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
