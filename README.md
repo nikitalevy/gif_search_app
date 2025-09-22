@@ -53,7 +53,7 @@ test/
 ```dart
 class AppConfig {
   static const String giphyBaseUrl = 'https://api.giphy.com/v1/gifs';
-  static const String giphyApiKey  = 'YOUR_API_KEY';
+  static const String giphyApiKey  = '0uuR1580UHlD18idiaXDvswoWhKXZPjs';
 }
 ```
 
